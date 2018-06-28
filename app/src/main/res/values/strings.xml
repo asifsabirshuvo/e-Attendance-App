@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EAttendance</string>
+    <array name="classes">
+        <item>Select Class</item>>
+        <item>CSE-A</item>
+        <item>CSE-B</item>
+
+    </array>
+    <array name="periods">
+        <item>Select Period</item>>
+        <item>p1</item>
+        <item>p2</item>
+        <item>p3</item>
+        <item>p4</item>
+        <item>p5</item>
+        <item>p6</item>
+        <item>p7</item>
+        <item>p8</item>
+
+    </array>
+
+
+</resources>
